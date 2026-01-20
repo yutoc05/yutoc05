@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Yuto
+## Hi there 👋 I'm Yuto
 
 <!--
 **yutoc05/yutoc05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
